@@ -1,0 +1,29 @@
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Visual Studio 2008
+
+Project("{F098A634-D548-D6EA-7762-93C36023AC96}") = "Kyle_ZumaLab", "Assembly-CSharp.csproj", "{805072F7-669A-2910-42B0-B797632D37CB}"
+EndProject
+Project("{F098A634-D548-D6EA-7762-93C36023AC96}") = "Kyle_ZumaLab", "Assembly-CSharp-Editor.csproj", "{308D54A4-F2EC-BD2F-FE3C-BA0A8C4C6038}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{805072F7-669A-2910-42B0-B797632D37CB}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{805072F7-669A-2910-42B0-B797632D37CB}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{805072F7-669A-2910-42B0-B797632D37CB}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{805072F7-669A-2910-42B0-B797632D37CB}.Release|Any CPU.Build.0 = Release|Any CPU
+		{308D54A4-F2EC-BD2F-FE3C-BA0A8C4C6038}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{308D54A4-F2EC-BD2F-FE3C-BA0A8C4C6038}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{308D54A4-F2EC-BD2F-FE3C-BA0A8C4C6038}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{308D54A4-F2EC-BD2F-FE3C-BA0A8C4C6038}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(MonoDevelopProperties) = preSolution
+		StartupItem = Assembly-CSharp.csproj
+	EndGlobalSection
+EndGlobal
